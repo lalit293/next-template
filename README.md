@@ -30,4 +30,6 @@ Then visit [https://localhost:3000/](https://localhost:3000/)
 
 ## Tools (Used In This Template)
 
-This template uses [Next.js](https://nextjs.org/) as the JS Framework, [BiomeJS](https://biomejs.dev/) as the linter and formatter, [Sass](https://sass-lang.com/) and [TailwindCSS](https://tailwindcss.com/) for styling.
+This template uses [Next.js](https://nextjs.org/) as the JS Framework, [BiomeJS](https://biomejs.dev/) as the linter and formatter, [Sass](https://sass-lang.com/) and [TailwindCSS](https://tailwindcss.com/) for styling, components are provided by [Shadcn-UI](https://ui.shadcn.com/).
+
+By the way I have also used [Bun](https://bun.sh/) as the package manager for this repo.
